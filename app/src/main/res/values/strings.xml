@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Sarvika</string>
+    <string name="app_name" translatable="false">Sarvika</string>
 
     <string name="tagline">Global Life Services OS</string>
     <string name="hint_name">Your name</string>
