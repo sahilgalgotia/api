@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Sarvika</string>
+
+    <string name="tagline">Global Life Services OS</string>
+    <string name="hint_name">Your name</string>
+    <string name="label_region">Region</string>
+    <string name="label_language">Language</string>
+    <string name="action_login">Enter Sarvika</string>
+    <string name="action_logout">Logout</string>
+    <string name="error_name_required">Please enter your name</string>
+
+    <string name="welcome_user">Welcome, %1$s · %2$s</string>
+    <string name="choose_service">Choose a life service</string>
+
+    <string name="domain_healthcare">Healthcare</string>
+    <string name="domain_food">Food</string>
+    <string name="domain_commerce">Commerce</string>
+    <string name="domain_employment">Employment</string>
+    <string name="domain_marriage">Marriage</string>
+    <string name="domain_microservices">MicroServices</string>
+    <string name="domain_education">Education</string>
+    <string name="domain_finance">Finance</string>
+
+    <string name="service_language">Response language</string>
+</resources>

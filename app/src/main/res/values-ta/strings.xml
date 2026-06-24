@@ -1,0 +1,23 @@
+<resources>
+    <string name="tagline">உலகளாவிய வாழ்க்கை சேவை OS</string>
+    <string name="hint_name">உங்கள் பெயர்</string>
+    <string name="label_region">பகுதி</string>
+    <string name="label_language">மொழி</string>
+    <string name="action_login">சர்விகாவில் நுழைக</string>
+    <string name="action_logout">வெளியேறு</string>
+    <string name="error_name_required">உங்கள் பெயரை உள்ளிடவும்</string>
+
+    <string name="welcome_user">வரவேற்கிறோம், %1$s · %2$s</string>
+    <string name="choose_service">ஒரு வாழ்க்கை சேவையைத் தேர்ந்தெடுக்கவும்</string>
+
+    <string name="domain_healthcare">சுகாதாரம்</string>
+    <string name="domain_food">உணவு</string>
+    <string name="domain_commerce">வாணிகம்</string>
+    <string name="domain_employment">வேலை</string>
+    <string name="domain_marriage">திருமணம்</string>
+    <string name="domain_microservices">சிறு சேவைகள்</string>
+    <string name="domain_education">கல்வி</string>
+    <string name="domain_finance">நிதி</string>
+
+    <string name="service_language">பதில் மொழி</string>
+</resources>

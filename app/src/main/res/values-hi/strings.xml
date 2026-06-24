@@ -1,0 +1,23 @@
+<resources>
+    <string name="tagline">वैश्विक जीवन सेवा ओएस</string>
+    <string name="hint_name">आपका नाम</string>
+    <string name="label_region">क्षेत्र</string>
+    <string name="label_language">भाषा</string>
+    <string name="action_login">सर्विका में प्रवेश करें</string>
+    <string name="action_logout">लॉग आउट</string>
+    <string name="error_name_required">कृपया अपना नाम दर्ज करें</string>
+
+    <string name="welcome_user">स्वागत है, %1$s · %2$s</string>
+    <string name="choose_service">एक जीवन सेवा चुनें</string>
+
+    <string name="domain_healthcare">स्वास्थ्य</string>
+    <string name="domain_food">भोजन</string>
+    <string name="domain_commerce">वाणिज्य</string>
+    <string name="domain_employment">रोजगार</string>
+    <string name="domain_marriage">विवाह</string>
+    <string name="domain_microservices">सूक्ष्म सेवाएँ</string>
+    <string name="domain_education">शिक्षा</string>
+    <string name="domain_finance">वित्त</string>
+
+    <string name="service_language">उत्तर की भाषा</string>
+</resources>
